@@ -1,0 +1,12 @@
+server:
+  port: 8888
+  servlet:
+    context-path: /ss
+
+security:
+  user:
+    passsword: 123456
+
+logging:
+  level:
+    org.springframework.security: DEBUG
